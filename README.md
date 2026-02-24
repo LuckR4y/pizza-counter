@@ -1,4 +1,4 @@
-# teste
+# Pizza Counter
 
 A new Flutter project.
 
